@@ -13,7 +13,7 @@ const transporter = nodemailer.createTransport({
   service: "gmail",
   auth: {
     user: "kawanwagnner.gs@gmail.com",
-    pass: "not access", // <<< não posso esquecer de ocultar essa parada aqui <<<<
+    pass: "censured", // <<< não posso esquecer de ocultar essa parada aqui <<<<
   },
 });
 
